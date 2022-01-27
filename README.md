@@ -4,6 +4,8 @@ I'm Jonathan, John, Joe or whatever floats your boat really. I do full stack dev
 * [Contact Me](https://familyfriendly.xyz/socials.html)
 * [Send Me An Email](mailto:me@familyfriendly.xyz)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H03SLYD)
+
 ## Who am I
 I'm 18 and reside in a small hole in **🇸🇪 Sweden** called Sala, the absolute metropolis of the tech industry!
 
