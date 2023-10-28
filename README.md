@@ -7,7 +7,7 @@ I'm Jonathan, John, Joe or whatever floats your boat really. I do full stack dev
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H03SLYD)
 
 ## Who am I
-I'm 20 and reside in a small hole in **🇸🇪 Sweden** called Sala, the absolute metropolis of the tech industry!
+I'm 20 and reside in a nice little town in **🇸🇪 Sweden** called Uppsala, the absolute metropolis of the tech industry!
 
 ## My GitHub Statistics
 ![](https://github.com/ffamilyfriendly/github-stats/blob/master/generated/overview.svg)
