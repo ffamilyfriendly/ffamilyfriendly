@@ -7,7 +7,7 @@ I'm Jonathan, John, Joe or whatever floats your boat really. I do full stack dev
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H03SLYD)
 
 ## Who am I
-I'm 20 and reside in a nice little town in **🇸🇪 Sweden** called Uppsala. If you need to contact me urgently you can pull up to flogsta and scream - I'll scream back
+I'm 21 and reside in a nice little town in **🇸🇪 Sweden** called Uppsala. If you need to contact me urgently you can pull up to the [SLU](https://maps.app.goo.gl/z5C4b2dPzgV1bHzh6) horse pasture and scream - I'll scream back maybe
 
 ## My GitHub Statistics
 ![](https://github.com/ffamilyfriendly/github-stats/blob/master/generated/overview.svg)
